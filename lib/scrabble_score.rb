@@ -1,6 +1,4 @@
 
-# puts score.fetch("a")
-
 def scrabble_score(word)
   score = Hash.new()
   score.store("a", 1)
